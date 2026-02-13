@@ -8,7 +8,7 @@ I build AI systems for high-stakes document analysis. University of Michigan CS 
 
 ## Featured Projects
 
-🔥 **[sift-kg](https://github.com/juanceresa/sift-kg)** — Open-source CLI that turns document collections into interactive knowledge graphs. `pip install sift-kg` — [Live demos →](https://juanceresa.github.io/sift-kg/)
+🔥 **[sift-kg](https://github.com/juanceresa/sift-kg)** — Open-source CLI that turns document collections into interactive knowledge graphs. `pip install sift-kg` — [Live demo](https://juanceresa.github.io/sift-kg/)
 
 🧠 **Civic Table** — Forensic document intelligence platform for Cuban property restitution cases.
 
