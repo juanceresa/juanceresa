@@ -2,7 +2,7 @@
 
 🛠️ Software Engineer | 🤖 AI Systems | 🕸️ Knowledge Graphs
 
-I build AI systems for high-stakes document analysis. University of Michigan CS + Spanish, former NCAA D1 swimmer 🏊
+I build AI systems for high-stakes analysis. University of Michigan CS + Spanish, former NCAA D1 swimmer 🏊
 
 ---
 
