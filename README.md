@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Juan Ceresa 👋</h1>
+<h1 align="center">Hey, I'm Juan Ceresa 👋</h1>
   <h3 align="center">🛠️ Software Engineer • 🤖 Trustworthy AI Systems • 🕸️ Knowledge Graphs</h3>
 
   <p align="center">
@@ -27,14 +27,16 @@
 
   I build **provenance-first AI systems** for high-stakes document analysis and decision support.
 
+  - 🔥 Creator of **[sift-kg](https://github.com/juanceresa/sift-kg)** — open-source CLI that turns documents into knowledge graphs. [Live demos →](https://juanceresa.github.io/sift-kg/)
   - 🧠 Founding Engineer of **Civic Table** (forensic document intelligence platform)
   - ⚙️ Backend + AI pipeline builder in lean, high-output teams
   - 🔍 Focused on trust, verification workflows, and evidence traceability
 
   ---
 
-  ## 🧩 What I’m Building
+  ## 🧩 What I'm Building
 
+  - **[sift-kg](https://github.com/juanceresa/sift-kg)** — `pip install sift-kg` → point at documents → interactive knowledge graph. No database, no Docker, no code to write. [![GitHub stars](https://img.shields.io/github/stars/juanceresa/sift-kg?style=social)](https://github.com/juanceresa/sift-kg)
   - OCR → LLM → graph pipelines for messy real-world documents
   - Analyst-in-the-loop systems for verification and auditability
   - Data quality and schema validation tooling for production AI workflows
@@ -44,13 +46,14 @@
   ## 🛠️ Tech Stack
 
   - **Languages:** Python, TypeScript, SQL
-  - **AI/Data:** Anthropic Claude API, Pydantic, NetworkX, BigQuery, PostgreSQL
-  - **Frameworks/Tools:** Next.js, Git, Linux, LaTeX, GCP
+  - **AI/Data:** LiteLLM, Anthropic Claude API, Pydantic, NetworkX, BigQuery, PostgreSQL
+  - **Frameworks/Tools:** Typer, Next.js, Git, Linux, LaTeX, GCP
 
   ---
 
   ## 📌 Highlights
 
+  - **[sift-kg](https://github.com/juanceresa/sift-kg):** open-source document → knowledge graph CLI, published on PyPI
   - **Civic Table:** entity/relation extraction + graph construction + narrative generation
   - **CIVICBENCH:** civic reasoning benchmark framework and ontology
   - **CrisisCommand.ai:** link verification + quality validation across large scenario datasets
@@ -67,4 +70,4 @@
 
   ## 🤝 Connect
 
-  If you’re building trustworthy AI, civic tech, or data-heavy backend systems, I’d love to connect.
+  If you're building trustworthy AI, civic tech, or data-heavy backend systems, I'd love to connect.
