@@ -10,7 +10,7 @@ I build AI systems for high-stakes analysis. University of Michigan CS + Spanish
 
 🔥 **[sift-kg](https://github.com/juanceresa/sift-kg)** — Open-source CLI that turns document collections into interactive knowledge graphs. `pip install sift-kg` — [Live demo](https://juanceresa.github.io/sift-kg/)
 
-🧠 **Civic Table** — Forensic document intelligence platform for Cuban property restitution cases.
+🧠 **Civic Table** — The Palantir for civic repair. 
 
 📊 **CIVICBENCH** — Civic reasoning benchmark framework and ontology.
 
